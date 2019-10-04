@@ -59,6 +59,7 @@ button {
 .social {
     text-align: center;
     background-color: grey;
+    padding: 40px;
 }
 /* Main page is done */
 .about {
