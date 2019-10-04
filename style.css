@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: grey;
+}
+.main {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 13cm;
+    overflow: scroll; 
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    background-color: lightgray;
+}
+button {
+    border: 0;
+}
+.main_cesar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 155px;
+    height: 145px;
+    border: solid black 1px;
+    background-color: grey;
+    text-align: center;
+}
+.full_name {
+    text-align: center;
+    background-color: lightgray;
+}
+.job_title {
+    text-align: center;
+    background-color: lightgray;
+}
+.click_about {
+    text-align: center;
+    background-color: lightgray;
+    padding: 15px;
+    margin-bottom: 10px;
+    width: 155px;
+    margin-left: 350px; 
+}
+.click_projects {
+    text-align: center;
+    background-color: lightgray;
+    padding: 15px;
+    width: 155px;
+    margin-left: 350px;
+}
+.social {
+    text-align: center;
+    background-color: grey;
+}
+/* Main page is done */
+.about {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 13cm;
+    overflow: scroll;
+}
+.about_photo {
+display: flex;
+justify-content: space-evenly;
+margin-left: auto;
+margin-right: auto;
+width: 60px;  
+}
+.about_cesar {
+    border-radius: 50%;
+    border: solid black 1px;
+    width: 120px;
+    height: 90px;
+    background-color: grey;
+}
+.about_dog {
+    border: solid black 1px;
+    border-radius: 50%;
+    width: 120px;
+    height: 90px;
+    background-color: grey;
+}
+.about_one {
+    text-align: center;
+    min-height: 100px;
+    padding: 4%;
+    background-color: lightgray;
+}
+.about_two {
+    text-align: center;
+    min-height: 255px;
+    padding: 4%;
+    background-color: lightgrey; 
+}
+/* about me is done */
+.project_list {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 13cm;
+    overflow: scroll; 
+}
+.quiz_title {
+    text-align: center;
+    background-color: lightgrey;
+}
+.quiz_photo {
+    text-align: center;
+    min-height: 80px;
+    padding: 20%;
+    background-color: grey;
+}
+.describe {
+    text-align: center;
+    min-height: 80px;
+    padding: 5%;
+    background-color: lightgrey;
+}
+.programs_used {
+    text-align: center;
+    min-height: 80px;
+    padding: 5%;
+    background-color: lightgrey;
+}
+.links {
+    text-align: center;
+    min-height: 80px;
+    padding: 5%;
+    background-color: lightgrey; 
+}
